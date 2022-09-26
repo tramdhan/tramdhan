@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![tramdhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=tramdhan&count_private=true&theme=cobalt&include_all_commits=true)](https://github.com/tramdhan/github-readme-stats)
+[![tramdhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=tramdhan&count_private=true&theme=cobalt&include_all_commits=true&show_icons=true)](https://github.com/tramdhan/github-readme-stats)
