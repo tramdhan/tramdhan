@@ -2,7 +2,7 @@
 
 My name is Trevor Ramdhan and I am an App Development Manager and Lead Full Stack Developer.
 
-I’m currently working on converting some Laravel backends (using MySQL) to Node/Express/Sequelize.
+I’m currently working on converting some Laravel backends to Node/Express/Sequelize.
 I’m looking to collaborate on React component libraries, and publishing on npm or github.
 
 <!--
